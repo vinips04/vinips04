@@ -14,5 +14,5 @@
 - [📊 Dashboard WhatsApp T.I.](https://github.com/seuuser/dashboard-suporte)
 
 ## 📫 Contato
-[![LinkedIn](https://www.linkedin.com/in/vinicius-pereira27/)
-✉️ vinicius@email.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-pereira27/)
+✉️ viniciuspereira102004@gmail.com
