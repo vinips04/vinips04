@@ -15,5 +15,4 @@
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-pereira27/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:viniciuspereira102004@gmail.com
-)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:viniciuspereira102004@email.com?subject=Contato%20via%20Portf%C3%B3lio&body=Ol%C3%A1%20Vinicius%2C%20gostaria%20de%20falar%20sobre...)
