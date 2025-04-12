@@ -11,7 +11,6 @@
 
 ## 📌 Projetos em destaque
 - [🛡️ Cibersec Site](https://github.com/seuuser/cibersec) – Projeto de site de cibersegurança com layout responsivo
-- [📊 Dashboard WhatsApp T.I.](https://github.com/seuuser/dashboard-suporte)
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-pereira27/)
