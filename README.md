@@ -2,7 +2,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Estagiário em Suporte de T.I. | Apaixonado por cibersegurança  
-📈 Em constante evolução, buscando minha primeira vaga como Dev Jr.
+📈 Em constante evolução, buscando minha primeira vaga na area de Segurança da Informações.
 
 ## 🚀 Tecnologias
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
