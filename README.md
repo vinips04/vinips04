@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Vinicius 👋
 
-<!--
-**vinips04/vinips04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Estagiário em Suporte de T.I. | Apaixonado por cibersegurança  
+📈 Em constante evolução, buscando minha primeira vaga como Dev Jr.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em destaque
+- [🛡️ Cibersec Site](https://github.com/seuuser/cibersec) – Projeto de site de cibersegurança com layout responsivo
+- [📊 Dashboard WhatsApp T.I.](https://github.com/seuuser/dashboard-suporte)
+
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+✉️ vinicius@email.com
