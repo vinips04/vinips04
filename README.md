@@ -15,4 +15,5 @@
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-pereira27/)
-✉️ viniciuspereira102004@gmail.com
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:viniciuspereira102004@gmail.com
+)
