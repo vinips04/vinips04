@@ -1,8 +1,8 @@
 # Olá, eu sou o Vinicius 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Estagiário em Suporte de T.I. | Apaixonado por cibersegurança  
-📈 Em constante evolução, buscando minha primeira vaga na area de Segurança da Informações.
+💻 Estagiário em Suporte de T.I. | Estudante de cibersegurança  
+📈 Em constante evolução, buscando conhecimento e experiencias na area de Segurança da Informações.
 
 ## 🚀 Tecnologias
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
