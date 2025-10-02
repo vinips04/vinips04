@@ -1,6 +1,6 @@
-### <div align="center">I'm Vinicius Pereira, 🎯 Estagiário de Suporte em TI | 📚 Estudante de ADS | 🔐 Focado em Segurança da Informação e Cibersegurança 🚀
+### <div align="center">Eu sou Vinicius Pereira, Estagiário de Suporte em TI Estudante de ADS Focado em Segurança da Informação e Cibersegurança 
+
 </div>  
-  
 
 - 💻 Atualmente atuando como **Estagiário de Suporte em TI** no Instituto de Pesquisas Eldorado    
   
