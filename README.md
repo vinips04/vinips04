@@ -1,4 +1,4 @@
-### <div align="center">Eu sou Vinicius Pereira, Estagiário de Suporte em TI Estudante de ADS Focado em Segurança da Informação e Cibersegurança 
+### <div align="center">Eu sou Vinicius Pereira, estagiário de suporte em TI, estudante de ADS Focado em Segurança da Informação e Cibersegurança 
 
 </div>  
 
