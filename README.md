@@ -1,51 +1,76 @@
+### <div align="center">I'm Vinicius Pereira, 🎯 Estagiário de Suporte em TI | 📚 Estudante de ADS | 🔐 Focado em Segurança da Informação e Cibersegurança 🚀
+</div>  
+  
+
+- 💻 Atualmente atuando como **Estagiário de Suporte em TI** no Instituto de Pesquisas Eldorado    
+  
+
+- 📚 Estudando **Análise e Desenvolvimento de Sistemas**    
+  
+
+- 🔐 Focado em **Segurança da Informação e Cibersegurança**    
+  
+
+- ⚡ Curiosidade: já servi no **Exército Brasileiro**, onde desenvolvi disciplina, resiliência e trabalho em equipe  
+  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+</td><td valign="top" width="33%">
+
+
+
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<a href="https://github.com/vinips04" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/viniciuspereira27" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-###
+<br/>  
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
 
-###
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vinips04&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vinips04"  />
-</div>
+<br/>  
 
-###
 
-<h1 align="center">Olá! 👋</h1>
+## Recent Blog Posts  
+  
 
-###
+<br/>  
 
-<h3 align="left">👩‍💻  About Me</h3>
+  
 
-###
+<br/>  
 
-<p align="left">Eu sou estudande de Analise e Desenvolvimento de Sistemas, atualmente atuo como estagiario de suporte de TI em uma empresa de pesquisa e desenvolvimento de tecnologias, possuo experiencias xxxxx, e tenho voltado meus estudos para a area de cibersegurança<br><br>
+  
 
-###
- 
-<h3 align="left">🛠 Language and tools</h3>
+<br/>  
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-</div>
+<br />
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
