@@ -3,6 +3,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00E5FF&center=true&vCenter=true&width=480&lines=Vinicius+Pereira">
 </p>
 
+
+
 <h3 align="center">
   <span style="color:#00eaff; text-shadow: 0 0 10px #00eaff;">
   Infraestrutura • Redes • Suporte • Cybersecurity
