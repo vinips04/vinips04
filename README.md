@@ -77,13 +77,16 @@ Busco aprender continuamente e aplicar boas práticas de TI para ambientes segur
 
 ---
 
-### 🎓 Certificações / Cursos
+### 🎓 Certificações 
+
+- Em preparação: **ISC2 CC**
+
+### 📚 Cursos
 
 - Cisco Networking Academy — Fundamentos de Hardware
 - Cisco Networking Academy — Noções de Sistemas Operacionais
 - Udemy — Manual de Sobrevivência do Analista de Suporte
 - Udemy — Suporte Técnico na Prática
-- Em preparação: **ISC2 CC**
 
 ---
 
