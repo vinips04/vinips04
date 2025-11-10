@@ -68,15 +68,6 @@ Busco aprender continuamente e aplicar boas práticas de TI para ambientes segur
 | Sistema de agendamento jurídico (faculdade) | Lógica de programação e POO |
 | Script simples para automação AD | PowerShell básico |
 
----
-
-### 📊 Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinips04&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinips04&layout=compact&theme=tokyonight)
-
----
-
 ### 🎓 Certificações 
 
 - Em preparação: **ISC2 CC**
@@ -98,8 +89,16 @@ Busco aprender continuamente e aplicar boas práticas de TI para ambientes segur
 ---
 
 🧠 *Em constante evolução para atuar em Infraestrutura e Segurança da Informação*
+⭐ *Buscando oportunidades para fortalecer minha atuação em Infraestrutura e Segurança da Informação.*
 
 > Sempre aberto para conexões e projetos colaborativos 👥  
 
+
 ---
-⭐ *Buscando oportunidades para fortalecer minha atuação em Infraestrutura e Segurança da Informação.*
+
+### 📊 Estatísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinips04&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinips04&layout=compact&theme=tokyonight)
+
+---
