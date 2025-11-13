@@ -20,7 +20,7 @@
 
 ## 👋 Olá, eu sou o Vinicius Pereira!
 
-Tenho experiência com suporte técnico, Active Directory, atendimento a usuários, manutenção de equipamentos, diagnóstico de incidentes e ambientes Windows Server e Linux. Atualmente focado em evoluir para área de **Infraestrutura e Cibersegurança**.
+Tenho experiência com suporte técnico, Active Directory, atendimento a usuários, manutenção de equipamentos, diagnóstico de incidentes e ambientes Windows e Linux. Atualmente focado em evoluir para área de **Infraestrutura e Cibersegurança**.
 
 Busco aprender continuamente e aplicar boas práticas de TI para ambientes seguros, organizados e eficientes.
 
@@ -64,9 +64,12 @@ Busco aprender continuamente e aplicar boas práticas de TI para ambientes segur
 
 | Projeto | Foco |
 |--------|------|
-| Site sobre cibersegurança | HTML, CSS, JS, conteúdo educativo |
+| Menu de Reparo e Diagnóstico de TI (PowerShell) | PowerShell, Windows CLI, CMD Utilities (SFC, CHKDSK, DISM) |
+| Automação AD – Criação e Gestão de Usuários | PowerShell + Active Directory Module |
+| Kit de Comandos de Rede (README + Scripts) | 
+| Lab Windows + AD Básico | Stack: Hyper-V + Windows Server + ADDS + GPO |
 | Sistema de agendamento jurídico (faculdade) | Lógica de programação e POO |
-| Script simples para automação AD | PowerShell básico |
+| Página Cyber Info (HTML/CSS/JS) |
 
 ### 🎓 Certificações 
 
