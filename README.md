@@ -19,7 +19,8 @@
 
 ## 👋 Olá, eu sou o Vinicius Pereira
 
-Sou **Analista de TI Júnior**, com experiência em suporte técnico, Active Directory, manutenção de equipamentos, diagnóstico de incidentes e administração básica de ambientes **Windows e Linux**.  
+Sou Analista de TI Júnior, com experiência em suporte técnico, manutenção de computadores e impressoras, diagnóstico de incidentes e administração básica de ambientes Windows e Linux.
+
 Atualmente, estou direcionando minha carreira para **Infraestrutura e Cibersegurança**, com foco em boas práticas, automação e ambientes corporativos seguros e eficientes.
 
 ---
