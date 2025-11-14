@@ -64,7 +64,9 @@ Atualmente, estou direcionando minha carreira para **Infraestrutura e Cibersegur
 
 | Projeto | Tecnologias | Descrição |
 |----------|--------------|-----------|
-| [Menu de Reparo e Diagnóstico de TI (Batch)](https://github.com/vinips04/Menu-Reparo-TI-Batch) | Batch, CMD Utilities | Script com menu interativo para diagnósticos e reparos automatizados em Windows (SFC, CHKDSK, DNS, rede etc.) |
+| [Menu de Reparo e Diagnóstico de TI (Batch)](https://github.com/vinips04/Menu-Reparo-TI-Batch) | Batch, CMD Utilities | Menu interativo para automação de tarefas de suporte: SFC, CHKDSK, limpeza, DNS, rede, backup de drivers e consultas do sistema.|
+| [Ferramenta de Reparo Automatizado para Windows](https://github.com/vinips04/Ferramenta-de-Reparo-Automatico-Windows.git) | Batch Script, DISM, SFC, CHKDSK | Executa reparos completos no sistema Windows de forma automática, com geração de logs e verificação de integridade.|
+| [Otimizador de Desempenho do Windows]() | Batch Script, Windows Utilities | Ferramenta de otimização e limpeza: temporários, Windows Update, rede, Prefetch, TRIM/defrag e ajustes de performance.|
 | Kit de Comandos de Rede | Batch / PowerShell | Coleção de scripts úteis para diagnóstico de rede |
 ---
 
