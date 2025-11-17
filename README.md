@@ -17,7 +17,7 @@
 
 ---
 
-## 👋 Olá, eu sou o Vinicius Pereira
+## Seja bem vindo!👋
 
 Sou Analista de TI Júnior, com experiência em suporte técnico, manutenção de computadores e impressoras, diagnóstico de incidentes e administração básica de ambientes Windows e Linux.
 
