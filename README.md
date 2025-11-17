@@ -5,7 +5,7 @@
 
 <h3 align="center">
   <span style="color:#00eaff; text-shadow: 0 0 10px #00eaff;">
-  Infraestrutura • Redes • Suporte Técnico • Cybersecurity
+  Infraestrutura • Redes • Cybersecurity
   </span>
 </h3>
 
