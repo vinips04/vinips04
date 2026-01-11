@@ -5,89 +5,88 @@
 
 <h3 align="center">
   <span style="color:#00eaff; text-shadow: 0 0 10px #00eaff;">
-  Infraestrutura • Redes • Cybersecurity
+  NOC • Infraestrutura • Redes • Cybersecurity
   </span>
 </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Área-Infraestrutura-blue" />
-  <img src="https://img.shields.io/badge/Foco-Cibersegurança-red" />
-  <img src="https://img.shields.io/badge/Nível-Júnior-green" />
+  <img src="https://img.shields.io/badge/Atuação-NOC%2024x7-purple" />
+  <img src="https://img.shields.io/badge/Foco-Cybersecurity-red" />
 </p>
 
 ---
 
-## Seja bem vindo!👋
+## 👋 Bem-vindo!
 
-Sou Analista de TI Júnior, com experiência em suporte técnico, manutenção de computadores e impressoras, diagnóstico de incidentes e administração básica de ambientes Windows e Linux.
+Sou Analista de TI com atuação em **operações NOC 24x7** e ambientes de missão crítica, focado em **monitoramento de infraestrutura, redes e serviços**, análise de alertas, troubleshooting e resposta a incidentes.
 
-Atualmente, estou direcionando minha carreira para **Infraestrutura e Cibersegurança**, com foco em boas práticas, automação e ambientes corporativos seguros e eficientes.
+Tenho experiência prática em ambientes **Windows e Linux**, redes corporativas, ferramentas de monitoramento e suporte operacional a workloads em **AWS e Azure**, garantindo **alta disponibilidade, rápida resposta a incidentes e continuidade dos serviços**.
+
+Atualmente, direciono minha evolução técnica para **Infraestrutura, Cloud e Cybersecurity**, com interesse em **monitoramento de segurança, análise de incidentes e operações SOC**.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
 ### 💻 Sistemas & Servidores
 - Windows 10/11 e Windows Server  
-- Active Directory (criação de usuários, permissões, grupos)  
-- Linux (Ubuntu)
+- Linux (Ubuntu)  
+- Active Directory (usuários, grupos e permissões)
 
 ### 🌐 Redes
-- TCP/IP, DNS, DHCP, Subnetting básico  
-- Ferramentas de diagnóstico: `ping`, `ipconfig`, `tracert`, `nslookup`
+- TCP/IP, DNS, DHCP, VLANs  
+- Diagnóstico e troubleshooting de conectividade  
+- Ferramentas: `ping`, `tracert`, `nslookup`, `netstat`
 
-### ⚙️ Infraestrutura
-- Virtualização com VirtualBox, VMware e Hyper-V
-- Instalação, configuração e manutenção de estações de trabalho
-- Gerenciamento de usuários via Active Directory
-- Suporte remoto e presencial a usuários corporativos
-- Monitoramento de recursos de rede e desempenho do sistema
-- Aplicação de boas práticas de backup, segurança e atualização de sistemas
-- Criação de scripts utilitários para automação de tarefas operacionais (limpeza, diagnóstico e rede)
+### 📡 Monitoramento & Operações
+- Zabbix  
+- Grafana  
+- PRTG  
+- Análise, correlação e tratativa de alertas  
+- Operações 24x7 e resposta a incidentes
 
-### 🧩 Scripts & Ferramentas
+### ☁️ Cloud & Infraestrutura
+- Validação de serviços em **AWS e Azure**  
+- Monitoramento de instâncias e serviços  
+- Virtualização: VMware, Hyper-V, VirtualBox  
+
+### 🧩 Scripts & Automação
 - PowerShell (básico)  
 - Python (iniciante)  
-- Git e GitHub  
+- Git & GitHub  
 
 ---
 
 ## 📚 Atualmente estudando
 
-- Redes e Certificação **Cisco CCST**  
-- Fundamentos de **Cibersegurança**  
-- Fundamentos de **Python** e automação de tarefas  
+- Fundamentos de **Redes e Monitoramento**
+- Fundamentos de **Cybersecurity e SOC**
+- **Python** para automação operacional
+- Preparação para **(ISC)² Certified in Cybersecurity (CC)**
 
 ---
 
 ## 🚀 Projetos em Destaque
 
 | Projeto | Tecnologias | Descrição |
-|----------|--------------|-----------|
-| [Menu de Reparo e Diagnóstico de TI (Batch)](https://github.com/vinips04/Menu-Reparo-TI-Batch) | Batch, CMD Utilities | Menu interativo para automação de tarefas de suporte: SFC, CHKDSK, limpeza, DNS, rede, backup de drivers e consultas do sistema.|
-| [Ferramenta de Reparo Automatizado para Windows](https://github.com/vinips04/Ferramenta-de-Reparo-Automatico-Windows.git) | Batch Script, DISM, SFC, CHKDSK | Executa reparos completos no sistema Windows de forma automática, com geração de logs e verificação de integridade.|
-| [Otimizador de Desempenho do Windows]() | Batch Script, Windows Utilities | Ferramenta de otimização e limpeza: temporários, Windows Update, rede, Prefetch, TRIM/defrag e ajustes de performance.|
-| Kit de Comandos de Rede | Batch / PowerShell | Coleção de scripts úteis para diagnóstico de rede |
+|--------|-------------|-----------|
+| [Menu de Reparo e Diagnóstico de TI](https://github.com/vinips04/Menu-Reparo-TI-Batch) | Batch | Automação de diagnóstico, reparo e troubleshooting em ambientes Windows |
+| [Ferramenta de Reparo Automatizado](https://github.com/vinips04/Ferramenta-de-Reparo-Automatico-Windows.git) | Batch, DISM, SFC | Execução automatizada de verificações e reparos no Windows |
+| Otimizador de Desempenho do Windows | Batch | Limpeza, ajustes de performance e otimizações operacionais |
+| Network Troubleshooting Toolkit | Batch / PowerShell | Scripts para diagnóstico e análise de rede |
+
 ---
 
 ## 🎓 Certificações
 
-- (Em preparação) **(ISC)² Certified in Cybersecurity (CC)**  
-
----
-
-## 📘 Cursos Relevantes
-
-- **Cisco Networking Academy** — Fundamentos de Hardware  
-- **Cisco Networking Academy** — Noções de Sistemas Operacionais  
-- **Udemy** — Manual de Sobrevivência do Analista de Suporte  
-- **Udemy** — Suporte Técnico na Prática  
+- (Em preparação) **(ISC)² Certified in Cybersecurity (CC)**
 
 ---
 
 ## 🌐 Contato
 
-📎 **LinkedIn:** [linkedin.com/in/viniciusp04](https://www.linkedin.com/in/viniciuspereira27/)  
+📎 **LinkedIn:** https://www.linkedin.com/in/viniciuspereira27/  
 📧 **E-mail:** viniciuspereira102004@gmail.com  
 
 ---
@@ -101,5 +100,5 @@ Atualmente, estou direcionando minha carreira para **Infraestrutura e Cibersegur
 
 ---
 
-🧠 *Em constante evolução para atuar em Infraestrutura e Segurança da Informação.*  
-⭐ *Aberto a conexões, colaborações e desafios técnicos!*
+🧠 *Evoluindo continuamente em Infraestrutura, Operações e Segurança da Informação.*  
+⭐ *Aberto a colaborações técnicas e projetos práticos.*
