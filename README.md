@@ -62,7 +62,6 @@ Atualmente, direciono minha evolução técnica para **Infraestrutura, Cloud e C
 
 - Fundamentos de **Redes e Monitoramento**
 - Fundamentos de **Cybersecurity e SOC**
-- **Python** para automação operacional
 - Preparação para **(ISC)² Certified in Cybersecurity (CC)**
 
 ---
