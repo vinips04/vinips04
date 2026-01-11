@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Área-Infraestrutura-blue" />
-  <img src="https://img.shields.io/badge/Atuação-NOC%2024x7-purple" />
+  <img src="https://img.shields.io/badge/Atuação-NOC%20-purple" />
   <img src="https://img.shields.io/badge/Foco-Cybersecurity-red" />
 </p>
 
