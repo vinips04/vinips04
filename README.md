@@ -19,11 +19,11 @@
 
 ## 👋 Bem-vindo!
 
-Sou Analista de TI com atuação em **operações NOC 24x7** e ambientes de missão crítica, focado em **monitoramento de infraestrutura, redes e serviços**, análise de alertas, troubleshooting e resposta a incidentes.
+Sou Analista de TI atuando em ambiente de missão crítica (NOC 24x7), com foco em **monitoramento de infraestrutura, redes e serviços**, análise de alertas e resposta a incidentes, garantindo **alta disponibilidade e continuidade dos serviços**.
 
-Tenho experiência prática em ambientes **Windows e Linux**, redes corporativas, ferramentas de monitoramento e suporte operacional a workloads em **AWS e Azure**, garantindo **alta disponibilidade, rápida resposta a incidentes e continuidade dos serviços**.
+Possuo experiência prática em ambientes **Windows e Linux**, redes corporativas e ferramentas de monitoramento, além de suporte operacional a **máquinas e serviços críticos**, incluindo workloads em **AWS e Azure**, assegurando **rápida resposta a incidentes e estabilidade dos ambientes**.
 
-Atualmente, direciono minha evolução técnica para **Infraestrutura, Cloud e Cybersecurity**, com interesse em **monitoramento de segurança, análise de incidentes e operações SOC**.
+Atualmente, direciono minha evolução técnica para **Infraestrutura, Cloud e Cybersecurity**, com foco em **monitoramento de segurança, análise de incidentes e operações SOC**.
 
 ---
 
@@ -37,7 +37,6 @@ Atualmente, direciono minha evolução técnica para **Infraestrutura, Cloud e C
 ### 🌐 Redes
 - TCP/IP, DNS, DHCP, VLANs  
 - Diagnóstico e troubleshooting de conectividade  
-- Ferramentas: `ping`, `tracert`, `nslookup`, `netstat`
 
 ### 📡 Monitoramento & Operações
 - Zabbix  
@@ -52,17 +51,7 @@ Atualmente, direciono minha evolução técnica para **Infraestrutura, Cloud e C
 - Virtualização: VMware, Hyper-V, VirtualBox  
 
 ### 🧩 Scripts & Automação
-- PowerShell (básico)  
-- Python (iniciante)  
-- Git & GitHub  
-
----
-
-## 📚 Atualmente estudando
-
-- Fundamentos de **Redes e Monitoramento**
-- Fundamentos de **Cybersecurity e SOC**
-- Preparação para **(ISC)² Certified in Cybersecurity (CC)**
+- PowerShell (iniciante)
 
 ---
 
