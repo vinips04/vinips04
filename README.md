@@ -66,12 +66,6 @@ Atualmente, direciono minha evolução técnica para **Infraestrutura, Cloud e C
 
 ---
 
-## 🎓 Certificações
-
-- (Em preparação) **(ISC)² Certified in Cybersecurity (CC)**
-
----
-
 ## 🌐 Contato
 
 📎 **LinkedIn:** https://www.linkedin.com/in/viniciuspereira27/  
