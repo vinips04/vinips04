@@ -19,9 +19,9 @@
 
 ## 👋 Bem-vindo!
 
-Sou Analista de TI atuando em ambiente de missão crítica (NOC 24x7), com foco em **monitoramento de infraestrutura, redes e serviços**, análise de alertas e resposta a incidentes, garantindo **alta disponibilidade e continuidade dos serviços**.
+Sou Analista de TI atuando em ambiente de missão crítica (NOC 24x7), com foco em monitoramento de infraestrutura, redes e serviços, análise de alertas e resposta a incidentes, garantindo alta disponibilidade e continuidade dos serviços.
 
-Possuo experiência prática em ambientes **Windows e Linux**, redes corporativas e ferramentas de monitoramento, além de suporte operacional a **máquinas e serviços críticos**, incluindo workloads em **AWS e Azure**, assegurando **rápida resposta a incidentes e estabilidade dos ambientes**.
+Possuo experiência prática em ambientes Windows e Linux, redes corporativas e ferramentas de monitoramento, além de suporte operacional a máquinas e serviços críticos, incluindo workloads em AWS e Azure, assegurando rápida resposta a incidentes e estabilidade dos ambientes.
 
 Atualmente, direciono minha evolução técnica para **Infraestrutura, Cloud e Cybersecurity**, com foco em **monitoramento de segurança, análise de incidentes e operações SOC**.
 
