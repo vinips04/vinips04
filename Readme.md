@@ -51,7 +51,7 @@ Atualmente, direciono minha evolução técnica para **Infraestrutura, Cloud e C
 - Virtualização: VMware, Hyper-V, VirtualBox  
 
 ### 🧩 Scripts & Automação
-- PowerShell (iniciante)
+- PowerShell
 
 ---
 
