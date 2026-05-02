@@ -68,7 +68,7 @@ Atualmente, direciono minha evolução técnica para **Infraestrutura, Cloud e C
 
 ## 🌐 Contato
 
-📎 **LinkedIn:** https://www.linkedin.com/in/viniciuspereira27/  
+📎 [LinkedIn](https://www.linkedin.com/in/viniciuspereira27/)  
 📧 **E-mail:** viniciuspereira102004@gmail.com  
 
 ---
