@@ -17,70 +17,113 @@
 
 ---
 
-## 👋 Bem-vindo!
+<!-- Animated Name -->
 
-Sou Analista de TI atuando em ambiente de missão crítica (NOC 24x7), com foco em monitoramento de infraestrutura, redes e serviços, análise de alertas e resposta a incidentes, garantindo alta disponibilidade e continuidade dos serviços.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00E5FF&center=true&vCenter=true&width=600&lines=Vinicius+Pereira;NOC+Analyst;Infrastructure+%7C+Networks+%7C+Cloud;Cybersecurity+Journey">
+</p>
 
-Possuo experiência prática em ambientes Windows e Linux, redes corporativas e ferramentas de monitoramento, além de suporte operacional a máquinas e serviços críticos, incluindo workloads em AWS e Azure, assegurando rápida resposta a incidentes e estabilidade dos ambientes.
+<h3 align="center">
+  NOC Analyst • Infrastructure • Networks • Cloud • Cybersecurity
+</h3>
 
-Atualmente, direciono minha evolução técnica para **Infraestrutura, Cloud e Cybersecurity**, com foco em **monitoramento de segurança, análise de incidentes e operações SOC**.
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-### 💻 Sistemas & Servidores
-- Windows 10/11 e Windows Server  
-- Linux (Ubuntu)  
-- Active Directory (usuários, grupos e permissões)
-
-### 🌐 Redes
-- TCP/IP, DNS, DHCP, VLANs  
-- Diagnóstico e troubleshooting de conectividade  
-
-### 📡 Monitoramento & Operações
-- Zabbix  
-- Grafana  
-- PRTG  
-- Análise, correlação e tratativa de alertas  
-- Operações 24x7 e resposta a incidentes
-
-### ☁️ Cloud & Infraestrutura
-- Validação de serviços em **AWS e Azure**  
-- Monitoramento de instâncias e serviços  
-- Virtualização: VMware, Hyper-V, VirtualBox  
-
-### 🧩 Scripts & Automação
-- PowerShell
+<p align="center">
+  <img src="https://img.shields.io/badge/Area-Infrastructure-blue" />
+  <img src="https://img.shields.io/badge/Role-NOC-purple" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-red" />
+  <img src="https://img.shields.io/badge/Operations-24x7-green" />
+</p>
 
 ---
 
-## 🚀 Projetos em Destaque
+## 👋 About Me
 
-| Projeto | Tecnologias | Descrição |
-|--------|-------------|-----------|
-| [Menu de Reparo e Diagnóstico de TI](https://github.com/vinips04/Menu-Reparo-TI-Batch) | Batch | Automação de diagnóstico, reparo e troubleshooting em ambientes Windows |
-| [Ferramenta de Reparo Automatizado](https://github.com/vinips04/Ferramenta-de-Reparo-Automatico-Windows.git) | Batch, DISM, SFC | Execução automatizada de verificações e reparos no Windows |
-| Otimizador de Desempenho do Windows | Batch | Limpeza, ajustes de performance e otimizações operacionais |
-| Network Troubleshooting Toolkit | Batch / PowerShell | Scripts para diagnóstico e análise de rede |
+I am an IT Analyst working in mission-critical NOC 24x7 environments, focused on infrastructure monitoring, network operations, incident analysis and service availability.
 
----
+My experience includes Windows and Linux environments, corporate networks, monitoring platforms and operational support for critical systems, including AWS and Azure service validations.
 
-## 🌐 Contato
+I work with incident management, troubleshooting and observability practices to support stable and reliable IT operations.
 
-📎 [LinkedIn](https://www.linkedin.com/in/viniciuspereira27/)  
-📧 **E-mail:** viniciuspereira102004@gmail.com  
+Currently improving my skills in **Infrastructure, Cloud and Cybersecurity**, focusing on **security monitoring, incident response and SOC operations**.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🛠️ Technologies & Tools
+
+### 💻 Systems & Servers
+
+* Windows 10/11
+* Windows Server
+* Linux (Ubuntu)
+* Active Directory
+
+### 🌐 Networking
+
+* TCP/IP
+* DNS / DHCP
+* VLANs
+* L2/L3 Troubleshooting
+* Connectivity Analysis
+
+### 📡 Monitoring & Operations
+
+* Zabbix
+* Grafana
+* PRTG
+* ServiceNow
+* Jira
+* Incident Management
+* Alert Analysis & Correlation
+* Mission-Critical Operations 24x7
+
+### ☁️ Cloud & Infrastructure
+
+* AWS
+* Azure
+* VMware
+* Hyper-V
+* VirtualBox
+
+### 🧩 Automation & Scripts
+
+* PowerShell
+* Batch Script
+* Windows CMD
+* Git / GitHub
+
+---
+
+## 🚀 Featured Projects
+
+| Project                                                                              | Technologies             | Description                                                                                      |
+| ------------------------------------------------------------------------------------ | ------------------------ | ------------------------------------------------------------------------------------------------ |
+| [windows-diagnostic-toolkit](https://github.com/vinips04/windows-diagnostic-toolkit) | Batch, CMD               | Windows automation toolkit for system diagnostics, troubleshooting and infrastructure operations |
+| [windows-repair-automation](https://github.com/vinips04/windows-repair-automation)   | Batch, DISM, SFC, CHKDSK | Windows repair automation workflow with logs and system recovery procedures                      |
+
+---
+
+## 🎯 Current Focus
+
+* Infrastructure Operations
+* Observability
+* Network Troubleshooting
+* Cloud Computing
+* Cybersecurity Fundamentals
+* SOC Operations
+* Automation for IT Operations
+
+---
+
+## 🌐 Contact
+
+[LinkedIn](https://www.linkedin.com/in/viniciuspereira27/)
+Email: [viniciuspereira102004@gmail.com](mailto:viniciuspereira102004@gmail.com)
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vinips04&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinips04&layout=compact&theme=tokyonight" height="150" />
 </p>
-
----
-
-🧠 *Evoluindo continuamente em Infraestrutura, Operações e Segurança da Informação.*  
-⭐ *Aberto a colaborações técnicas e projetos práticos.*
