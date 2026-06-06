@@ -98,38 +98,3 @@ Currently improving my skills in **Infrastructure, Cloud and Cybersecurity**, fo
 ## 🌐 Contact
 
 [LinkedIn](https://www.linkedin.com/in/viniciuspereira27/) | Email: viniciuspereira102004@gmail.com
-
----
-
-## 🧭 Technical Roadmap
-
-```text
-Current Path:
-
-NOC Operations
-      |
-      ├── Infrastructure Engineering
-      |       ├── Windows Server
-      |       ├── Linux Administration
-      |       ├── Virtualization
-      |       └── Automation
-      |
-      ├── Cloud Operations
-      |       ├── AWS
-      |       ├── Azure
-      |       └── Monitoring
-      |
-      └── Cybersecurity
-              ├── Security Monitoring
-              ├── Incident Response
-              └── SOC Operations
-⚙️ Operations Mindset
-Monitoring → Detection → Analysis → Troubleshooting → Resolution
-
-Focus:
-✔ Reduce MTTR
-✔ Improve Availability
-✔ Standardize Operations
-✔ Automate Repetitive Tasks
-📈 Professional Focus
-<p align="center"> <img src="https://img.shields.io/badge/Observability-Zabbix-blue" /> <img src="https://img.shields.io/badge/Dashboard-Grafana-orange" /> <img src="https://img.shields.io/badge/ITSM-ServiceNow-green" /> <img src="https://img.shields.io/badge/Security-SOC-red" /> <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-purple" /> </p> ```
