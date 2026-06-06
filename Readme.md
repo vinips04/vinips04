@@ -105,15 +105,15 @@ Currently improving my skills in **Infrastructure, Cloud and Cybersecurity**, fo
 
 <p align="center">
 
-  <img 
-    height="160"
-    src="https://github-readme-stats.vercel.app/api?username=vinips04&show_icons=true&theme=tokyonight&count_private=true"
-  />
+<img 
+  height="160"
+  src="https://github-readme-stats.vercel.app/api?username=vinips04&show_icons=true&theme=tokyonight&hide_border=true"
+/>
 
-  <img 
-    height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinips04&layout=compact&theme=tokyonight"
-  />
+<img 
+  height="160"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinips04&layout=compact&theme=tokyonight&hide_border=true"
+/>
 
 </p>
 
@@ -123,8 +123,9 @@ Currently improving my skills in **Infrastructure, Cloud and Cybersecurity**, fo
 
 <p align="center">
 
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=vinips04&theme=tokyonight"
-  />
+<img 
+  height="160"
+  src="https://streak-stats.demolab.com?user=vinips04&theme=tokyonight&hide_border=true"
+/>
 
 </p>
