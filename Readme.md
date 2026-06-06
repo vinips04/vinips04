@@ -1,86 +1,148 @@
-<!-- Nome com animação -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00E5FF&center=true&vCenter=true&width=480&lines=Vinicius+Pereira">
-</p>
+# Windows Diagnostic Toolkit (.bat)
 
-<h3 align="center">
-  <span style="color:#00eaff; text-shadow: 0 0 10px #00eaff;">
-  NOC • Infraestrutura • Redes • Cybersecurity
-  </span>
-</h3>
+Windows automation toolkit developed with Batch Script to simplify system diagnostics, troubleshooting and infrastructure support operations.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Área-Infraestrutura-blue" />
-  <img src="https://img.shields.io/badge/Atuação-NOC%20-purple" />
-  <img src="https://img.shields.io/badge/Foco-Cybersecurity-red" />
-</p>
+This project centralizes common tasks performed by IT Support, NOC and Infrastructure teams during incident analysis, reducing manual effort and improving response time.
+
+<img width="379" height="302" alt="image" src="https://github.com/user-attachments/assets/ea1cf56c-3695-49c9-b420-f0dceb5bcbd3" />
 
 ---
 
-## 👋 Bem-vindo!
+## Overview
 
-Sou Analista de TI atuando em ambiente de missão crítica (NOC 24x7), com foco em monitoramento de infraestrutura, redes e serviços, análise de alertas e resposta a incidentes, garantindo alta disponibilidade e continuidade dos serviços.
+In enterprise environments, analysts frequently execute repetitive troubleshooting procedures during incidents.
 
-Possuo experiência prática em ambientes Windows e Linux, redes corporativas e ferramentas de monitoramento, além de suporte operacional a máquinas e serviços críticos, incluindo workloads em AWS e Azure, assegurando rápida resposta a incidentes e estabilidade dos ambientes.
+This toolkit provides a centralized command-line menu to execute Windows diagnostic and maintenance operations, helping with:
 
-Atualmente, direciono minha evolução técnica para **Infraestrutura, Cloud e Cybersecurity**, com foco em **monitoramento de segurança, análise de incidentes e operações SOC**.
+* Faster incident response (MTTR reduction)
+* Standardized troubleshooting process
+* System health validation
+* Infrastructure support automation
 
----
+## Features
 
-## 🛠️ Tecnologias & Ferramentas
+### System Diagnostics
 
-### 💻 Sistemas & Servidores
-- Windows 10/11 e Windows Server  
-- Linux (Ubuntu)  
-- Active Directory (usuários, grupos e permissões)
+* Disk verification and repair (CHKDSK)
+* System file integrity validation (SFC)
+* Windows system information collection
+* Windows Update verification
 
-### 🌐 Redes
-- TCP/IP, DNS, DHCP, VLANs  
-- Diagnóstico e troubleshooting de conectividade  
+### Network Troubleshooting
 
-### 📡 Monitoramento & Operações
-- Zabbix  
-- Grafana  
-- PRTG  
-- Análise, correlação e tratativa de alertas  
-- Operações 24x7 e resposta a incidentes
+* Connectivity tests (Ping)
+* DNS cache cleanup
+* Network services restart
 
-### ☁️ Cloud & Infraestrutura
-- Validação de serviços em **AWS e Azure**  
-- Monitoramento de instâncias e serviços  
-- Virtualização: VMware, Hyper-V, VirtualBox  
+### Maintenance Tasks
 
-### 🧩 Scripts & Automação
-- PowerShell
+* Temporary files cleanup
+* Driver backup
+* Custom command execution
 
----
+## Technologies Used
 
-## 🚀 Projetos em Destaque
+* Batch Script (.bat)
+* Windows Command Prompt (CMD)
+* Native Windows Administration Tools
 
-| Projeto | Tecnologias | Descrição |
-|--------|-------------|-----------|
-| [Menu de Reparo e Diagnóstico de TI](https://github.com/vinips04/Menu-Reparo-TI-Batch) | Batch | Automação de diagnóstico, reparo e troubleshooting em ambientes Windows |
-| [Ferramenta de Reparo Automatizado](https://github.com/vinips04/Ferramenta-de-Reparo-Automatico-Windows.git) | Batch, DISM, SFC | Execução automatizada de verificações e reparos no Windows |
-| Otimizador de Desempenho do Windows | Batch | Limpeza, ajustes de performance e otimizações operacionais |
-| Network Troubleshooting Toolkit | Batch / PowerShell | Scripts para diagnóstico e análise de rede |
+## Project Structure
 
----
+```text
+windows-diagnostic-toolkit/
 
-## 🌐 Contato
-
-📎 [LinkedIn](https://www.linkedin.com/in/viniciuspereira27/)  
-📧 **E-mail:** viniciuspereira102004@gmail.com  
+├── scripts/
+│   └── windows-diagnostic-toolkit.bat
+├── docs/
+│   └── evidences/
+└── README.md
+```
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Operational Scenario
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinips04&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinips04&layout=compact&theme=tokyonight" height="150" />
-</p>
+Incident example:
+
+A workstation presents slow performance and intermittent network connectivity.
+
+Troubleshooting workflow:
+
+1. Collect system information
+2. Validate network connectivity
+3. Clear DNS cache
+4. Restart network services
+5. Execute Windows repair commands
+6. Confirm service restoration
+
+## How to Use
+
+Clone this repository:
+
+```bash
+git clone https://github.com/vinips04/windows-diagnostic-toolkit.git
+```
+
+Access the project:
+
+```bash
+cd windows-diagnostic-toolkit/scripts
+```
+
+Run:
+
+```cmd
+windows-diagnostic-toolkit.bat
+```
+
+Note:
+
+Run as Administrator to allow system repair operations.
+
+## Available Options
+
+```text
+[1] Check and repair disk (CHKDSK)
+[2] Repair system files (SFC)
+[3] Clean temporary files
+[4] Network connectivity test
+[5] Restart network services
+[6] Flush DNS cache
+[7] Backup installed drivers
+[8] Check Windows Updates
+[9] Display system information
+[10] Execute custom command
+```
 
 ---
 
-🧠 *Evoluindo continuamente em Infraestrutura, Operações e Segurança da Informação.*  
-⭐ *Aberto a colaborações técnicas e projetos práticos.*
+## Security Considerations
+
+* No credentials are stored in the script
+* Uses only native Windows commands
+* Administrative permissions are required only for system-level operations
+
+## Execution Evidence
+
+Execution screenshots and validation results are available:
+
+```text
+/docs/evidences/
+```
+
+## Future Improvements
+
+Planned improvements:
+
+* PowerShell version
+* Automatic diagnostic report generation
+* Log export feature
+* Remote troubleshooting support
+
+---
+
+## Author
+
+**Vinicius Pereira**
+
+[LinkedIn](https://www.linkedin.com/in/viniciuspereira27/) | [GitHub](https://github.com/vinips04)
