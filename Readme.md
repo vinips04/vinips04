@@ -97,14 +97,34 @@ Currently improving my skills in **Infrastructure, Cloud and Cybersecurity**, fo
 
 ## 🌐 Contact
 
-[LinkedIn](https://www.linkedin.com/in/viniciuspereira27/)
-Email: [viniciuspereira102004@gmail.com](mailto:viniciuspereira102004@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/viniciuspereira27/) | Email: viniciuspereira102004@gmail.com
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinips04&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinips04&layout=compact&theme=tokyonight" height="150" />
+
+  <img 
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=vinips04&show_icons=true&theme=tokyonight&count_private=true"
+  />
+
+  <img 
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinips04&layout=compact&theme=tokyonight"
+  />
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=vinips04&theme=tokyonight"
+  />
+
 </p>
