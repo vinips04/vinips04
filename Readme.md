@@ -17,25 +17,6 @@
 
 ---
 
-<!-- Animated Name -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00E5FF&center=true&vCenter=true&width=600&lines=Vinicius+Pereira;NOC+Analyst;Infrastructure+%7C+Networks+%7C+Cloud;Cybersecurity+Journey">
-</p>
-
-<h3 align="center">
-  NOC Analyst • Infrastructure • Networks • Cloud • Cybersecurity
-</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Area-Infrastructure-blue" />
-  <img src="https://img.shields.io/badge/Role-NOC-purple" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-red" />
-  <img src="https://img.shields.io/badge/Operations-24x7-green" />
-</p>
-
----
-
 ## 👋 About Me
 
 I am an IT Analyst working in mission-critical NOC 24x7 environments, focused on infrastructure monitoring, network operations, incident analysis and service availability.
