@@ -101,31 +101,35 @@ Currently improving my skills in **Infrastructure, Cloud and Cybersecurity**, fo
 
 ---
 
-## 📊 GitHub Statistics
+## 🧭 Technical Roadmap
 
-<p align="center">
+```text
+Current Path:
 
-<img
-  height="160"
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vinips04&show_icons=true&theme=tokyonight&hide_border=true"
-/>
+NOC Operations
+      |
+      ├── Infrastructure Engineering
+      |       ├── Windows Server
+      |       ├── Linux Administration
+      |       ├── Virtualization
+      |       └── Automation
+      |
+      ├── Cloud Operations
+      |       ├── AWS
+      |       ├── Azure
+      |       └── Monitoring
+      |
+      └── Cybersecurity
+              ├── Security Monitoring
+              ├── Incident Response
+              └── SOC Operations
+⚙️ Operations Mindset
+Monitoring → Detection → Analysis → Troubleshooting → Resolution
 
-<img
-  height="160"
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vinips04&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img
-  height="160"
-  src="https://streak-stats.demolab.com?user=vinips04&theme=tokyonight&hide_border=true"
-/>
-
-</p>
+Focus:
+✔ Reduce MTTR
+✔ Improve Availability
+✔ Standardize Operations
+✔ Automate Repetitive Tasks
+📈 Professional Focus
+<p align="center"> <img src="https://img.shields.io/badge/Observability-Zabbix-blue" /> <img src="https://img.shields.io/badge/Dashboard-Grafana-orange" /> <img src="https://img.shields.io/badge/ITSM-ServiceNow-green" /> <img src="https://img.shields.io/badge/Security-SOC-red" /> <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-purple" /> </p> ```
