@@ -104,4 +104,10 @@ Currently, I am expanding my expertise toward Infrastructure Engineering, Cloud,
 
 ## 🌐 Contact
 
-[LinkedIn](https://www.linkedin.com/in/viniciuspereira27/) | E-mail: viniciuspereira102004@gmail.com
+<a href="https://www.linkedin.com/in/viniciuspereira27/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Vinicius%20Pereira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:viniciuspereira102004@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-viniciuspereira102004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
