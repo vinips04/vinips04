@@ -19,82 +19,80 @@
 
 ## 👋 About Me
 
-I am an IT Analyst working in mission-critical NOC 24x7 environments, focused on infrastructure monitoring, network operations, incident analysis and service availability.
+I am an IT Analyst with experience in 24x7 mission-critical operations, infrastructure monitoring, enterprise networks, telecommunications, systems monitoring and incident management.
 
-My experience includes Windows and Linux environments, corporate networks, monitoring platforms and operational support for critical systems, including AWS and Azure service validations.
+My career began in technical support and infrastructure, including Service Desk and Field Service roles, where I developed a solid operational foundation in troubleshooting, corporate infrastructure support and service continuity.
 
-I work with incident management, troubleshooting and observability practices to support stable and reliable IT operations.
+Currently, I work as an Infrastructure Monitoring Analyst (NOC) in the railway sector, monitoring infrastructure, networks and critical systems, performing alert analysis, incident follow-up and operational support with a focus on service availability, stability and operational resilience.
 
-Currently improving my skills in **Infrastructure, Cloud and Cybersecurity**, focusing on **security monitoring, incident response and SOC operations**.
+My experience includes Incident Management, ITSM practices, TCP/IP networking, VLANs, Layer 2/Layer 3 troubleshooting, connectivity analysis, application monitoring and enterprise observability using different monitoring and service management platforms.
+
+I also have hands-on experience with Windows, Windows Server, Linux, macOS, Active Directory, virtualization, AWS, Azure, FortiGate firewalls, initial log analysis and operational support for critical systems.
+
+Currently, I am expanding my expertise toward Infrastructure Engineering, Cloud, Cybersecurity, SOC and Blue Team, with emphasis on security monitoring, SIEM, observability, incident analysis and enterprise infrastructure protection.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technical Skills
 
-### 💻 Systems & Servers
+### 💻 Systems & Platforms
 
-* Windows 10/11
-* Windows Server
-* Linux (Ubuntu)
-* Active Directory
+- Windows
+- Windows Server
+- Linux
+- macOS
 
 ### 🌐 Networking
 
-* TCP/IP
-* DNS / DHCP
-* VLANs
-* L2/L3 Troubleshooting
-* Connectivity Analysis
+- TCP/IP
+- DNS / DHCP
+- VLANs
+- Network Troubleshooting (Layer 2 / Layer 3)
+- Network Connectivity Analysis
 
 ### 📡 Monitoring & Operations
 
-* Zabbix
-* Grafana
-* PRTG
-* ServiceNow
-* Jira
-* Incident Management
-* Alert Analysis & Correlation
-* Mission-Critical Operations 24x7
+- Zabbix
+- Grafana
+- PRTG
+- ServiceNow
+- Jira & Confluence
+- ITSM Practices
+- Incident Management
+- Alert Analysis & Correlation
+- Infrastructure Monitoring
+- 24x7 Mission-Critical Operations
 
-### ☁️ Cloud & Infrastructure
+### ☁️ Infrastructure & Cloud
 
-* AWS
-* Azure
-* VMware
-* Hyper-V
-* VirtualBox
+- Active Directory
+- AWS
+- Azure
+- VMware
+- Hyper-V
+- VirtualBox
+- FortiGate Firewall
 
-### 🧩 Automation & Scripts
+### 🧩 Automation & Scripting
 
-* PowerShell
-* Batch Script
-* Windows CMD
-* Git / GitHub
-
----
-
-## 🚀 Featured Projects
-
-| Project                                                                              | Technologies             | Description                                                                                      |
-| ------------------------------------------------------------------------------------ | ------------------------ | ------------------------------------------------------------------------------------------------ |
-| [windows-diagnostic-toolkit](https://github.com/vinips04/windows-diagnostic-toolkit) | Batch, CMD               | Windows automation toolkit for system diagnostics, troubleshooting and infrastructure operations |
-| [windows-repair-automation](https://github.com/vinips04/windows-repair-automation)   | Batch, DISM, SFC, CHKDSK | Windows repair automation workflow with logs and system recovery procedures                      |
+- PowerShell
+- Batch Script
 
 ---
 
 ## 🎯 Current Focus
 
 * Infrastructure Operations
-* Observability
+* Enterprise Monitoring & Observability
 * Network Troubleshooting
-* Cloud Computing
+* Cloud Infrastructure
+* Infrastructure Automation
 * Cybersecurity Fundamentals
-* SOC Operations
-* Automation for IT Operations
+* SOC & Blue Team
+* SIEM & Incident Analysis
 
 ---
 
 ## 🌐 Contact
 
-[LinkedIn](https://www.linkedin.com/in/viniciuspereira27/) | Email: viniciuspereira102004@gmail.com
+[LinkedIn](https://www.linkedin.com/in/viniciuspereira27/) | E-mail: viniciuspereira102004@gmail.com
