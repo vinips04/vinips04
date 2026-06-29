@@ -95,7 +95,10 @@ Currently, I am expanding my expertise toward Infrastructure Engineering, Cloud,
 
 ## 🚀 Featured Projects
 
-| Project | Technologies | Description | | ------------------------------------------------------------------------------------ | ------------------------ | ------------------------------------------------------------------------------------------------ | | [windows-diagnostic-toolkit](https://github.com/vinips04/windows-diagnostic-toolkit) | Batch, CMD | Windows automation toolkit for system diagnostics, troubleshooting and infrastructure operations | | [windows-repair-automation](https://github.com/vinips04/windows-repair-automation) | Batch, DISM, SFC, CHKDSK | Windows repair automation workflow with logs and system recovery procedures | ---
+| Project | Technologies | Description |
+|---------|--------------|-------------|
+| [windows-diagnostic-toolkit](https://github.com/vinips04/windows-diagnostic-toolkit) | Batch, Windows CMD | Automation toolkit for Windows diagnostics, network troubleshooting and infrastructure support operations. |
+| [windows-repair-automation](https://github.com/vinips04/windows-repair-automation) | Batch, DISM, SFC, CHKDSK | Automated Windows repair workflow with integrity checks, recovery procedures and execution logs. |
 
 ---
 
