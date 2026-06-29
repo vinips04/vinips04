@@ -91,6 +91,12 @@ Currently, I am expanding my expertise toward Infrastructure Engineering, Cloud,
 * SOC & Blue Team
 * SIEM & Incident Analysis
 
+--- 
+
+## 🚀 Featured Projects
+
+| Project | Technologies | Description | | ------------------------------------------------------------------------------------ | ------------------------ | ------------------------------------------------------------------------------------------------ | | [windows-diagnostic-toolkit](https://github.com/vinips04/windows-diagnostic-toolkit) | Batch, CMD | Windows automation toolkit for system diagnostics, troubleshooting and infrastructure operations | | [windows-repair-automation](https://github.com/vinips04/windows-repair-automation) | Batch, DISM, SFC, CHKDSK | Windows repair automation workflow with logs and system recovery procedures | ---
+
 ---
 
 ## 🌐 Contact
