@@ -1,108 +1,115 @@
 <!-- Nome com animação -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00E5FF&center=true&vCenter=true&width=480&lines=Vinicius+Pereira">
 </p>
 
 <h3 align="center">
-  <span style="color:#00eaff; text-shadow: 0 0 10px #00eaff;">
-  NOC • Infraestrutura • Redes • Cybersecurity
-  </span>
+Infrastructure Operations • NOC • Observability • Enterprise Networks
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Área-Infraestrutura-blue" />
-  <img src="https://img.shields.io/badge/Atuação-NOC%20-purple" />
-  <img src="https://img.shields.io/badge/Foco-Cybersecurity-red" />
+  <img src="https://img.shields.io/badge/Infrastructure-Operations-0078D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-NOC%2024x7-6A1B9A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20Cybersecurity-009688?style=flat-square" />
 </p>
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
-I am an IT Analyst with experience in 24x7 mission-critical operations, infrastructure monitoring, enterprise networks, telecommunications, systems monitoring and incident management.
+I am an **Infrastructure Operations Analyst (NOC III)** working in a **24x7 mission-critical railway environment**, supporting enterprise infrastructure, networks, telecommunications and critical business services.
 
-My career began in technical support and infrastructure, including Service Desk and Field Service roles, where I developed a solid operational foundation in troubleshooting, corporate infrastructure support and service continuity.
+My professional background spans **Technical Support, Service Desk, Field Service and Infrastructure Operations**, providing a solid operational foundation in enterprise infrastructure, troubleshooting, service continuity and incident management.
 
-Currently, I work as an Infrastructure Monitoring Analyst (NOC) in the railway sector, monitoring infrastructure, networks and critical systems, performing alert analysis, incident follow-up and operational support with a focus on service availability, stability and operational resilience.
+Currently, I am responsible for monitoring infrastructure, enterprise networks, applications, databases and telecommunications services, performing alert correlation, operational troubleshooting, incident management and observability activities to ensure high availability and operational resilience.
 
-My experience includes Incident Management, ITSM practices, TCP/IP networking, VLANs, Layer 2/Layer 3 troubleshooting, connectivity analysis, application monitoring and enterprise observability using different monitoring and service management platforms.
+My daily routine includes collaboration with multidisciplinary teams, participation in critical incidents, operational documentation, technical procedures and continuous support for business-critical environments.
 
-I also have hands-on experience with Windows, Windows Server, Linux, macOS, Active Directory, virtualization, AWS, Azure, FortiGate firewalls, initial log analysis and operational support for critical systems.
-
-Currently, I am expanding my expertise toward Infrastructure Engineering, Cloud, Cybersecurity, SOC and Blue Team, with emphasis on security monitoring, SIEM, observability, incident analysis and enterprise infrastructure protection.
+My long-term career path is focused on **Cloud Operations, Cybersecurity, SOC and Blue Team**, building on a strong infrastructure and operations background.
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠 Technical Skills
 
-### 💻 Systems & Platforms
+## 💻 Infrastructure & Systems
 
-- Windows
-- Windows Server
-- Linux
-- macOS
+* Windows
+* Windows Server
+* Linux
+* macOS
+* Active Directory
+* VMware
+* Virtualization
 
-### 🌐 Networking
+## 🌐 Networking
 
-- TCP/IP
-- DNS / DHCP
-- VLANs
-- Network Troubleshooting (Layer 2 / Layer 3)
-- Network Connectivity Analysis
+* TCP/IP
+* DNS / DHCP
+* VLANs
+* VPN
+* Layer 2 / Layer 3 Troubleshooting
+* Network Connectivity Analysis
+* FortiGate Firewall
+* Fiber & LTE Connectivity
 
-### 📡 Monitoring & Operations
+## 📡 Monitoring & Enterprise Operations
 
-- Zabbix
-- Grafana
-- PRTG
-- ServiceNow
-- Jira & Confluence
-- ITSM Practices
-- Incident Management
-- Alert Analysis & Correlation
-- Infrastructure Monitoring
-- 24x7 Mission-Critical Operations
+* Zabbix
+* Grafana
+* PRTG
+* ServiceNow
+* Jira
+* Incident Management
+* ITSM Practices
+* Infrastructure Monitoring
+* Enterprise Observability
+* Alert Correlation & Analysis
+* Service Continuity
+* 24x7 Mission-Critical Operations
 
-### ☁️ Infrastructure & Cloud
+## ☁ Infrastructure & Cloud
 
-- Active Directory
-- AWS
-- Azure
-- VMware
-- Hyper-V
-- VirtualBox
-- FortiGate Firewall
+* AWS (Operational Support)
+* Azure (Operational Support)
+* Windows Server Administration
+* Active Directory
+* VMware
+* Hyper-V
+* VirtualBox
 
-### 🧩 Automation & Scripting
+## 🧩 Automation
 
-- PowerShell
-- Batch Script
+* PowerShell
+* Batch Script
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
 * Infrastructure Operations
-* Enterprise Monitoring & Observability
-* Network Troubleshooting
-* Cloud Infrastructure
+* Enterprise Observability
+* Incident Management
+* Infrastructure Monitoring
+* Network Operations
+* Cloud Operations
 * Infrastructure Automation
 * Cybersecurity Fundamentals
-* SOC & Blue Team
-* SIEM & Incident Analysis
-
---- 
-
-## 🚀 Featured Projects
-
-| Project | Technologies | Description |
-|---------|--------------|-------------|
-| [windows-diagnostic-toolkit](https://github.com/vinips04/windows-diagnostic-toolkit) | Batch, Windows CMD | Automation toolkit for Windows diagnostics, network troubleshooting and infrastructure support operations. |
-| [windows-repair-automation](https://github.com/vinips04/windows-repair-automation) | Batch, DISM, SFC, CHKDSK | Automated Windows repair workflow with integrity checks, recovery procedures and execution logs. |
+* SOC Operations
+* Blue Team
 
 ---
 
-## 🌐 Contact
+# 🚀 Featured Projects
+
+| Project                                                                              | Technologies             | Description                                                                                                |
+| ------------------------------------------------------------------------------------ | ------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| [windows-diagnostic-toolkit](https://github.com/vinips04/windows-diagnostic-toolkit) | Batch, Windows CMD       | Windows diagnostic toolkit focused on infrastructure support, troubleshooting and operational maintenance. |
+| [windows-repair-automation](https://github.com/vinips04/windows-repair-automation)   | Batch, DISM, SFC, CHKDSK | Automated Windows repair workflow with integrity validation, recovery procedures and execution logging.    |
+
+---
+
+# 🌐 Contact
 
 <a href="https://www.linkedin.com/in/viniciuspereira27/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Vinicius%20Pereira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
