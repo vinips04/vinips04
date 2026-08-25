@@ -7,7 +7,7 @@
   <a href="https://portifolio-viniciuspereira.com"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=White" /></a>
   <a href="https://github.com/vinips04"><img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://tryhackme.com/p/vinips"><img src="https://img.shields.io/badge/TRYHACKME-111927?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-  <a href="https://youtube.com/@vinips"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+ <!-- <a href="https://youtube.com/@vinips"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> -->
   <br><br>
   <img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-0DD94D?style=for-the-badge" />
 </p>
