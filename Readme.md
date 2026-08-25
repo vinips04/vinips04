@@ -49,7 +49,7 @@ Vinicius Pereira
       <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=flat-square&logo=microsoft&logoColor=white" />
       <img src="https://img.shields.io/badge/TCP/IP_%7C_VLAN-0055DA?style=flat-square" />
       <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
-      <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
       <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
       <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
       <img src="https://img.shields.io/badge/VirtualBox-21416B?style=flat-square&logo=virtualbox&logoColor=white" />
