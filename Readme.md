@@ -32,71 +32,45 @@ My long-term career path is focused on **Cloud Operations, Cybersecurity, SOC an
 
 # 🛠 Technical Skills
 
-## 💻 Infrastructure & Systems
+---
 
-* Windows
-* Windows Server
-* Linux
-* macOS
-* Active Directory
-* VMware
-* Virtualization
+# 💻 Technologies & Tools
 
-## 🌐 Networking
+### Operating Systems & Environments
 
-* TCP/IP
-* DNS / DHCP
-* VLANs
-* VPN
-* Layer 2 / Layer 3 Troubleshooting
-* Network Connectivity Analysis
-* FortiGate Firewall
-* Fiber & LTE Connectivity
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,arch,kali" />
+</p>
 
-## 📡 Monitoring & Enterprise Operations
+### Development & Automation
 
-* Zabbix
-* Grafana
-* PRTG
-* ServiceNow
-* Jira
-* Incident Management
-* ITSM Practices
-* Infrastructure Monitoring
-* Enterprise Observability
-* Alert Correlation & Analysis
-* Service Continuity
-* 24x7 Mission-Critical Operations
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,python,powershell,bash" />
+</p>
 
-## ☁ Infrastructure & Cloud
+### Monitoring, Cloud & Infrastructure
 
-* AWS (Operational Support)
-* Azure (Operational Support)
-* Windows Server Administration
-* Active Directory
-* VMware
-* Hyper-V
-* VirtualBox
+<p>
+  <img src="https://skillicons.dev/icons?i=grafana,gcp,docker,aws,azure" />
+</p>
 
-## 🧩 Automation
+### Version Control & Platforms
 
-* PowerShell
-* Batch Script
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+### Collaboration
+
+<p>
+  <img src="https://skillicons.dev/icons?i=discord" />
+</p>
 
 ---
 
 # 🎯 Current Focus
 
-* Infrastructure Operations
-* Enterprise Observability
-* Incident Management
-* Infrastructure Monitoring
-* Network Operations
-* Cloud Operations
-* Infrastructure Automation
-* Cybersecurity Fundamentals
-* SOC Operations
-* Blue Team
+Infrastructure Operations - Enterprise Observability - Incident Management - Infrastructure Monitoring - Network Operations - Cloud Operations - Infrastructure Automation - Cybersecurity Fundamentals - SOC Operations - Blue Team
 
 ---
 
@@ -111,10 +85,14 @@ My long-term career path is focused on **Cloud Operations, Cybersecurity, SOC an
 
 # 🌐 Contact
 
-<a href="https://www.linkedin.com/in/viniciuspereira27/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Vinicius%20Pereira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/viniciuspereira27/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Vinicius%20Pereira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-<a href="mailto:viniciuspereira102004@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail-viniciuspereira102004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p>
+  <a href="mailto:viniciuspereira102004@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-viniciuspereira102004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
