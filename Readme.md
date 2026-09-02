@@ -163,4 +163,4 @@ Vinicius Pereira
 <br/>
 
 <p align="center">
-  <code>system secured • vinips04 on GitHub</code>
+  <code> vinips04 • Every trace tells a story. </code>
