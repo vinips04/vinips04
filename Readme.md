@@ -62,13 +62,7 @@ Vinicius Pereira
       <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
       <br><br>
-      <b>📝 Notes & Documentation</b><br><br>
-      <img src="https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white" />
-      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
-    </td>
-    <td valign="top" width="50%">
-      <b>📊 Monitoring & ITSM</b>
-      <br><br>
+      <b>📊 Monitoring & ITSM</b><br><br>
       <img src="https://img.shields.io/badge/Zabbix-F13834?style=flat-square&logo=zabbix&logoColor=white" />
       <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=flat-square&logo=grafana&logoColor=orange&labelColor=F2F4F9" />
       <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" />
@@ -76,24 +70,45 @@ Vinicius Pereira
       <img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logo=servicenow&logoColor=white" />
       <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
       <br><br>
-      <b>🔥 Offensive Tools</b><br><br>
+    <td valign="top" width="50%">
+      <b>🔎 Security & Network Analysis Tools</b><br><br>
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
       <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white" />
       <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white" />
       <br><br>
-      <b>🛡️ Defense</b><br><br>
+      <b>🛡️ Defensive Security - Fundamentals & Labs</b><br><br>
       <img src="https://img.shields.io/badge/SIEM_Fundamentals-632CA6?style=flat-square" />
       <img src="https://img.shields.io/badge/Incident_Response-00E5FF?style=flat-square" />
       <img src="https://img.shields.io/badge/SOC_Operations-00E5FF?style=flat-square" />
       <img src="https://img.shields.io/badge/DFIR-4D4D4D?style=flat-square" />
       <br><br>
+      <b>📝 Documentation & Knowledge Management</b><br><br>
+      <img src="https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white" />
+      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+      <br><br>
       <b>🤖 AI & Automation</b><br><br>
       <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" />
       <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
       <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" />
-    </td>
+   </td>
   </tr>
 </table>
+
+---
+
+<h3 align="left">Currently Learning</h3>
+
+<p>
+  ☁️ <b>Cloud Computing & Modern Infrastructure</b><br>
+  <b>Before Open RAN: Cloud na Prática - CPQD + PUCPR</b><br>
+  Virtualization • Containers • SDN • AWS • Azure • Hybrid Cloud • Multi-Cloud • Edge Computing
+</p>
+
+<p>
+  🛡️ <b>Cybersecurity & Defensive Security</b><br>
+  <b>Google Professional Certificate in Cybersecurity</b><br>
+  Security Fundamentals • Network Security • Security Monitoring • Incident Response
+</p>
 
 ---
 
