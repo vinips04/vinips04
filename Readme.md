@@ -20,7 +20,7 @@
 
 Vinicius Pereira
 
-🔧 Infrastructure Operations Analyst (NOC III) supporting 24x7 Mission-Critical Operations
+🔧 Infrastructure Operations Analyst supporting 24x7 Mission-Critical Operations
 🌐 Infrastructure • Networks • Observability • ITSM
 ⚙️ Incident Management • Troubleshooting • Service Continuity
 ☁️ Cloud Operations • Enterprise Infrastructure • Hybrid Environments
