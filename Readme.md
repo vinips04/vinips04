@@ -152,12 +152,6 @@ Vinicius Pereira
 <table align="center" width="100%">
   <tr>
     <td>
-      <p>🧠 <code>BLUE TEAM MINDSET</code></p>
-      <p><i>"The best defense is born from a deep understanding of infrastructure. Knowing the network and anticipating system behavior is the key to resilience."</i></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <p>📊 <code>OBSERVABILITY MINDSET</code></p>
       <p><i>"In mission-critical operational environments, analytical curiosity and continuous observability are the pillars to ensure availability and proactively mitigate incidents."</i></p>
     </td>
@@ -173,4 +167,4 @@ Vinicius Pereira
 <br/>
 
 <p align="center">
-  <code> vinips04 • Every trace tells a story. </code>
+  <code> vinips04 • See what nobody overlooks. </code>
