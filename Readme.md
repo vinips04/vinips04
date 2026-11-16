@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/viniciuspereira27/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vinicius-pereira-4b85711a4/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://portifolio-viniciuspereira.com"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=White" /></a>
   <a href="https://github.com/vinips04"><img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://tryhackme.com/p/vinips"><img src="https://img.shields.io/badge/TRYHACKME-111927?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
@@ -135,7 +135,7 @@ Vinicius Pereira
 
 <p align="center">
   <!-- LinkedIn Badge -->
-  <a href="https://www.linkedin.com/in/vinicius-pereira27/">
+  <a href="https://www.linkedin.com/in/vinicius-pereira-4b85711a4/">
     <a href="https://www.linkedin.com/in/viniciuspereira27/"><img src="https://img.shields.io/badge/LinkedIn-vinicius--pereira27-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
