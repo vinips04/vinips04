@@ -106,6 +106,12 @@ Vinicius Pereira
   Security Fundamentals • Network Security • Security Monitoring • Incident Response
 </p>
 
+<p>
+  🎓 <b>B.Sc. in Systems Analysis and Development (ADS)</b><br>
+  <b>Centro Universitário UniMetrocamp (2024 – 2027)</b><br>
+  Software Engineering • Computer Networks • Operating Systems • Databases • IT Infrastructure
+</p>
+
 ---
 
 <h3 align="left">Featured Projects</h3>
